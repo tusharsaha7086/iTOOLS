@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iTOOLS/static/css/main.e6c13ad2.css",
+    "main.js": "/iTOOLS/static/js/main.7c240805.js",
+    "static/js/787.28cb0dcd.chunk.js": "/iTOOLS/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/iTOOLS/index.html",
+    "main.e6c13ad2.css.map": "/iTOOLS/static/css/main.e6c13ad2.css.map",
+    "main.7c240805.js.map": "/iTOOLS/static/js/main.7c240805.js.map",
+    "787.28cb0dcd.chunk.js.map": "/iTOOLS/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7c240805.js"
+  ]
+}
